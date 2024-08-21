@@ -1,6 +1,7 @@
 # trab_complex_alg
 Trabalho complexidade de algortimos
 
+Na pasta numeros_aleaorios está o código para criar o arquivo com os números a serem buscados.
 Na pasta procurar está o código ara a busca de números aleatórios.
 Na pasta gerar_1T está o código para gerar e buscar o número.
 
