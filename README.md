@@ -1,6 +1,9 @@
 # trab_complex_alg
 Trabalho complexidade de algortimos
 
+Na pasta procurar está o código ara a busca de números aleatórios.
+Na pasta gerar_1T está o código para gerar e buscar o número.
+
 Arquivo gerado com sucesso: numeros_1M.txt
 Tempo de execução: 77 ms
 Uso de Memória RAM: 18,10 MB
